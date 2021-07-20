@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\bin\Debug\netcoreapp3.1\QueuingSystem.exe
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\bin\Debug\netcoreapp3.1\QueuingSystem.deps.json
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\bin\Debug\netcoreapp3.1\QueuingSystem.runtimeconfig.json
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\bin\Debug\netcoreapp3.1\QueuingSystem.runtimeconfig.dev.json
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\bin\Debug\netcoreapp3.1\QueuingSystem.dll
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\bin\Debug\netcoreapp3.1\QueuingSystem.pdb
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\obj\Debug\netcoreapp3.1\QueuingSystem.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\obj\Debug\netcoreapp3.1\QueuingSystem.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\obj\Debug\netcoreapp3.1\QueuingSystem.AssemblyInfo.cs
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\obj\Debug\netcoreapp3.1\QueuingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\obj\Debug\netcoreapp3.1\QueuingSystem.dll
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\obj\Debug\netcoreapp3.1\QueuingSystem.pdb
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\obj\Debug\netcoreapp3.1\QueuingSystem.genruntimeconfig.cache
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\obj\Debug\netcoreapp3.1\Visual.Form1.resources
+C:\Users\Максим\Desktop\YROKI3\ООП\ИМ\QueuingSystem\obj\Debug\netcoreapp3.1\QueuingSystem.csproj.GenerateResource.cache
